@@ -4,7 +4,7 @@
  * @param  {Number} digit   需要的位数
  * @return {String}     	补零的字符串
  * @author TaNg
- * @dateTime	2016-04-14T10:49:08+0800
+ * @datetime	2016-04-14T10:49:08+0800
  */
 
 //ES6
