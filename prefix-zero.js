@@ -2,9 +2,10 @@
  * 传入数字和位数，得到补零的字符串，超出的位数去掉
  * @param  {Number} number 	数字
  * @param  {Number} digit   需要的位数
- * @return {String}     	补零的字符串
- * @author TaNg
- * @datetime	2016-04-14T10:49:08+0800
+ * @return {String}   		补零的字符串
+ * 
+ * @author 	tangxiaokui@126.com
+ * @date	2016-04-14
  */
 
 //ES6
